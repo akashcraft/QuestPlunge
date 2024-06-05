@@ -14,7 +14,7 @@ Quest Plunge is available for Windows only. You may view the source code by clon
 git clone https://github.com/akashcraft/QuestPlunge.git
 ```
 ## Controls
-You can control Ethan's movement using the arrow keys or WASD keys. Press Q to attack enemies. Press P to bring up the In-Game Pause Menu.Watch your health using
+You can control Ethan's movement using the arrow keys or WASD keys. Press Q to attack enemies. Press P to bring up the In-Game Pause Menu. Watch your health using
 				the six hearts on the top left. The game also features In-Game Coins to purchase
 				Power-Ups which can be purchased instantly using the F1, F2, F3, F4 keys
 
