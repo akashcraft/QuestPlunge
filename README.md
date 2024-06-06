@@ -33,9 +33,7 @@ This project was completed over a period of 3 months with all document deliverab
 				course
 				outline.
 				It is
-				sometimes interesting to look back at your creation and retrospect. In my case, it all began with
-				watching
-				those YouTube Unity Tutorials and the mighty white block!
+				sometimes interesting to look back at your creation and retrospect. In my case, it all began with those YouTube Unity Tutorials and the mighty white block!
 
 https://github.com/akashcraft/QuestPlunge/assets/113077967/e768d87f-6c1a-4dcc-80ca-143fc3e46849
 
